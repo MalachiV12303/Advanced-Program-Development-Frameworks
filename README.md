@@ -1,4 +1,5 @@
-# Archived College Assignments from 04/2024, see topics
+# Assignments from Advanced Software Programming (CEN4031) 2024
+This course will provide the student with the skills to apply the Software Development Life Cycle (SDLC) to developing a business programming application. The student will implement advanced programming techniques using appropriate algorithms, programming concepts and tools. The course also provides the student with the necessary computing theories to produce software applications from design documents.
 
 ## Assignment 1 - Tic Tac Toe App using React with JavaScript
 
