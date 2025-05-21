@@ -1,4 +1,4 @@
-# Archived Assignments from CEN4017
+# Archived College Assignments from 04/2024, see topics
 
 ## Assignment 1 - Tic Tac Toe App using React with JavaScript
 
